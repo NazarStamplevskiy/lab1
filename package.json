@@ -1,0 +1,19 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "Lab1",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nazario",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NazarStamplevskiy/lab1.git"
+  }
+}
